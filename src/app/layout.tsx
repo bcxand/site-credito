@@ -17,8 +17,21 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Criado com a Lasy",
-  description: "Projeto criado com Lasy AI",
+  title: "Crédito Fácil - Soluções Financeiras Personalizadas",
+  description: "Consórcio imobiliário, financiamentos, empréstimos, saque FGTS e limpa nome. Realize seus sonhos com as melhores condições do mercado.",
+  keywords: "crédito, financiamento, consórcio, empréstimo, saque FGTS, limpa nome, soluções financeiras",
+  authors: [{ name: "Crédito Fácil" }],
+  openGraph: {
+    title: "Crédito Fácil - Soluções Financeiras Personalizadas",
+    description: "Consórcio imobiliário, financiamentos, empréstimos, saque FGTS e limpa nome. Realize seus sonhos com as melhores condições do mercado.",
+    type: "website",
+    locale: "pt_BR",
+  },
+  twitter: {
+    card: "summary_large_image",
+    title: "Crédito Fácil - Soluções Financeiras Personalizadas",
+    description: "Consórcio imobiliário, financiamentos, empréstimos, saque FGTS e limpa nome. Realize seus sonhos com as melhores condições do mercado.",
+  },
 };
 
 export default function RootLayout({
