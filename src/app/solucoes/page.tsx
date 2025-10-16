@@ -277,7 +277,7 @@ Gostaria de mais informações sobre esta solução financeira.`
             {/* Logo */}
             <Link href="/" className="flex items-center">
               <img 
-                src="https://i.imgur.com/0vW5vV8.png" 
+                src="https://imgur.com/6JWUdFu.png" 
                 alt="Grupo Nexts Investimentos Imobiliários" 
                 className="h-12 w-auto"
                 onError={(e) => {
@@ -687,7 +687,7 @@ Gostaria de mais informações sobre esta solução financeira.`
             <div>
               <div className="flex items-center mb-6">
                 <img 
-                  src="https://i.imgur.com/0vW5vV8.png" 
+                  src="https://imgur.com/6JWUdFu.png" 
                   alt="Grupo Nexts Investimentos Imobiliários" 
                   className="h-12 w-auto"
                   onError={(e) => {
