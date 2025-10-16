@@ -13,7 +13,7 @@ export default function SobrePage() {
             {/* Logo */}
             <Link href="/" className="flex items-center">
               <img 
-                src="https://i.imgur.com/0vW5vV8.png" 
+                src="https://imgur.com/6JWUdFu.png" 
                 alt="Grupo Nexts Investimentos Imobiliários" 
                 className="h-12 w-auto"
                 onError={(e) => {
@@ -192,7 +192,7 @@ export default function SobrePage() {
             <div>
               <div className="flex items-center mb-6">
                 <img 
-                  src="https://i.imgur.com/0vW5vV8.png" 
+                  src="https://imgur.com/6JWUdFu.png" 
                   alt="Grupo Nexts Investimentos Imobiliários" 
                   className="h-12 w-auto"
                   onError={(e) => {
