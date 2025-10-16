@@ -230,7 +230,7 @@ export default function HomePage() {
           <div className="text-center mb-16">
             <h2 className="text-4xl font-bold mb-4">
               Faça parte dos nossos clientes que 
-              <span className="text-transparent bg-gradient-to-r from-[#F7D995] to-[#D0A556] bg-clip-text"> conquistam seus sonhos</span>
+              <span className="text-transparent bg-gradient-to-r from-[#F7D995] to-[#D0A556] bg-clip-text"> conquistaram seus sonhos</span>
             </h2>
             <p className="text-xl text-gray-200">Histórias reais de quem realizou seus objetivos conosco</p>
           </div>
