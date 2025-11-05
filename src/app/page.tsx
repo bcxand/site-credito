@@ -210,7 +210,7 @@ export default function HomePage() {
                   Nossa equipe está pronta para encontrar a melhor solução financeira para você.
                 </p>
                 <div className="flex flex-col gap-4">
-                  <a href="https://wa.me/5511915583458" className="w-full bg-[#25D366] text-white py-3 rounded-lg font-bold hover:bg-[#128C7E] transition-all flex items-center justify-center shadow-lg">
+                  <a href="https://wa.me/5511967878622" className="w-full bg-[#25D366] text-white py-3 rounded-lg font-bold hover:bg-[#128C7E] transition-all flex items-center justify-center shadow-lg">
                     <MessageCircle className="w-5 h-5 mr-2" />
                     WhatsApp
                   </a>
