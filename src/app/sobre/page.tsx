@@ -40,11 +40,11 @@ export default function SobrePage() {
               <Link href="/simulacao" className="bg-gradient-to-r from-[#F7D995] to-[#D0A556] text-[#002244] px-4 py-2 rounded-lg font-bold hover:from-[#002244] hover:to-[#001122] hover:text-white transition-all shadow-lg">
                 Simular Crédito
               </Link>
-              <a href="tel:+5511915583458" className="flex items-center text-[#002244] hover:text-[#D0A556] font-semibold">
+              <a href="tel:+5511967878622" className="flex items-center text-[#002244] hover:text-[#D0A556] font-semibold">
                 <Phone className="w-5 h-5 mr-2" />
                 (11) 91558-3458
               </a>
-              <a href="https://wa.me/5511915583458" className="bg-[#25D366] text-white p-2 rounded-full hover:bg-[#128C7E] transition-colors shadow-lg">
+              <a href="https://wa.me/5511967878622" className="bg-[#25D366] text-white p-2 rounded-full hover:bg-[#128C7E] transition-colors shadow-lg">
                 <MessageCircle className="w-5 h-5" />
               </a>
             </div>
@@ -174,7 +174,7 @@ export default function SobrePage() {
             Entre em contato conosco e descubra como podemos ajudar você a conquistar seus objetivos.
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
-            <a href="https://wa.me/5511915583458" className="bg-[#25D366] text-white px-8 py-4 rounded-lg font-bold hover:bg-[#128C7E] transition-all flex items-center justify-center shadow-lg">
+            <a href="https://wa.me/5511967878622" className="bg-[#25D366] text-white px-8 py-4 rounded-lg font-bold hover:bg-[#128C7E] transition-all flex items-center justify-center shadow-lg">
               <MessageCircle className="w-5 h-5 mr-2" />
               WhatsApp
             </a>
