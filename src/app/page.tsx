@@ -154,7 +154,7 @@ export default function HomePage() {
                 <Phone className="w-5 h-5 mr-2" />
                 (11) 3256-7623
               </a>
-              <a href="https://wa.me/5511915583458" className="bg-[#25D366] text-white p-2 rounded-full hover:bg-[#128C7E] transition-colors shadow-lg">
+              <a href="https://wa.me/5511967878622" className="bg-[#25D366] text-white p-2 rounded-full hover:bg-[#128C7E] transition-colors shadow-lg">
                 <MessageCircle className="w-5 h-5" />
               </a>
             </div>
