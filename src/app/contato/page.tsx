@@ -44,7 +44,7 @@ export default function ContatoPage() {
                 <Phone className="w-5 h-5 mr-2" />
                 (11) 3256-7623
               </a>
-              <a href="https://wa.me/5511915583458" className="bg-[#25D366] text-white p-2 rounded-full hover:bg-[#128C7E] transition-colors shadow-lg">
+              <a href="https://wa.me/5511967878622" className="bg-[#25D366] text-white p-2 rounded-full hover:bg-[#128C7E] transition-colors shadow-lg">
                 <MessageCircle className="w-5 h-5" />
               </a>
             </div>
@@ -130,7 +130,7 @@ export default function ContatoPage() {
               {/* Botões de Ação Rápida */}
               <div className="grid md:grid-cols-2 gap-4 max-w-2xl mx-auto">
                 <a 
-                  href="https://wa.me/5511915583458" 
+                  href="https://wa.me/5511967878622" 
                   className="w-full bg-[#25D366] text-white py-4 rounded-lg font-bold hover:bg-[#128C7E] transition-all flex items-center justify-center shadow-lg"
                 >
                   <MessageCircle className="w-5 h-5 mr-2" />
