@@ -38,7 +38,7 @@ function FormModal({ isOpen, onClose, type }: { isOpen: boolean; onClose: () => 
 
 Aguardo retorno para dar continuidade ao processo.`
 
-    const whatsappUrl = `https://wa.me/5511915583458?text=${encodeURIComponent(mensagem)}`
+    const whatsappUrl = `https://wa.me/5511967878622?text=${encodeURIComponent(mensagem)}`
     window.open(whatsappUrl, '_blank')
     
     onClose()
@@ -242,7 +242,7 @@ export default function SolucoesPage() {
 Gostaria de mais informações sobre esta solução financeira.`
 
     const encodedMessage = encodeURIComponent(message)
-    const whatsappUrl = `https://wa.me/5511915583458?text=${encodedMessage}`
+    const whatsappUrl = `https://wa.me/5511967878622?text=${encodedMessage}`
     
     window.open(whatsappUrl, '_blank')
   }
@@ -311,7 +311,7 @@ Gostaria de mais informações sobre esta solução financeira.`
                 <Phone className="w-5 h-5 mr-2" />
                 (11) 3256-7623
               </a>
-              <a href="https://wa.me/5511915583458" className="bg-[#25D366] text-white p-2 rounded-full hover:bg-[#128C7E] transition-colors shadow-lg">
+              <a href="https://wa.me/5511967878622" className="bg-[#25D366] text-white p-2 rounded-full hover:bg-[#128C7E] transition-colors shadow-lg">
                 <MessageCircle className="w-5 h-5" />
               </a>
             </div>
@@ -672,7 +672,7 @@ Gostaria de mais informações sobre esta solução financeira.`
             >
               Solicitar Crédito
             </button>
-            <a href="https://wa.me/5511915583458" className="bg-[#25D366] text-white px-8 py-4 rounded-lg font-bold hover:bg-[#128C7E] transition-all flex items-center justify-center shadow-lg">
+            <a href="https://wa.me/5511967878622" className="bg-[#25D366] text-white px-8 py-4 rounded-lg font-bold hover:bg-[#128C7E] transition-all flex items-center justify-center shadow-lg">
               <MessageCircle className="w-5 h-5 mr-2" />
               WhatsApp
             </a>
